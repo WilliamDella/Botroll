@@ -44,6 +44,8 @@ public class TelaBotroll extends JFrame {
 		setContentPane(contentPane);
 		contentPane.setLayout(null);
 
+		// fu
+		
 		btnBotroll = new JButton("Botroll");
 		btnBotroll.setFocusable(false);
 		// btnBotroll.addKeyListener(new KeyAdapter() {
